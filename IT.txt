@@ -1,0 +1,38 @@
+1.	Melyik összetevő gyártójának weblapját keresse fel a szakember a számítógép BIOS frissítésével kapcsolatban?
+számtogép
+processzor
+operácios rendser
+alaplap
+
+2.	Milyen mértékegységet használunk egy áramkörben az ellenállás jellemzésére?
+ohm 
+watt
+amper
+volt
+
+3.	Mi jelzi, hogy a CMOS-elem töltése alacsony lehet?
+
+Dátum és ido beállitások nem megfelelőek
+A teljesitmán a merevlemezen léő fájlok elérése közben alacsony
+a számitogép em kapcsol be
+a post során sipoló hibajelést jelentkezik
+
+
+4.	Hol tárolódnak a BIOS konfigurációs adatok?
+
+RAM 
+CMOS
+gyorsitásban
+merevlemezen
+
+
+
+5.	Milyen hardver fejlesztés teszi lehetővé, hogy a játék PC processzora optimális teljesítményt nyújtson?
+nagy mennyiségű gyors RAM
+Gyors EIDE meghajó
+folyadékhűtés
+nagy kapaciátsú külső merevlemez
+
+
+
+
